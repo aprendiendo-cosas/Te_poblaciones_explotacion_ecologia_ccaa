@@ -26,8 +26,7 @@ Este acto docente consta de dos sesiones diferentes que se describen a continuac
 
 ## Contenido
 
-Para seguir el hilo argumental de la clase se utiliza [este](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/main/presentacion/explotacion_poblaciones.xmind) mapa mental, que se puede ver con el software [Xmind](https://www.xmind.net/). 
-
+Para seguir el hilo argumental de la clase se utiliza [este](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/main/presentacion/explotacion_poblaciones.xmind) mapa mental, que se puede ver con el software [Xmind](https://www.xmind.net/). Puedes descargar el archivo anterior y verlo en tu ordenador con el software mencionado. Pero también puedes ver [este](https://aprendiendo-cosas.github.io/Te_poblaciones_explotacion_ecologia_ccaa/presentacion/explotacion_poblaciones.html) archivo html que contiene la misma información.
 
 
 
