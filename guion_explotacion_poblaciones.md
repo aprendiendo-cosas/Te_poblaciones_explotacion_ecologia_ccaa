@@ -26,7 +26,7 @@ Este acto docente consta de dos sesiones diferentes que se describen a continuac
 
 ## Contenido
 
-Para seguir el hilo argumental de la clase se utiliza [este](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/2020-2021/presentacion/explotacion_poblaciones.xmind) mapa mental, que se puede ver con el software [Xmind](https://www.xmind.net/). Puedes descargar el archivo anterior y verlo en tu ordenador con el software mencionado. Pero también puedes ver [este](https://aprendiendo-cosas.github.io/Te_poblaciones_explotacion_ecologia_ccaa/presentacion/explotacion_poblaciones.html) archivo html que contiene la misma información.
+Para seguir el hilo argumental de la clase se utiliza [este](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/2020-2021/presentacion/explotacion_poblaciones.xmind) mapa mental, que se puede ver con el software [Xmind](https://www.xmind.net/). Puedes descargar el archivo anterior y verlo en tu ordenador con el software mencionado. Pero también puedes ver [este](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/2020-2021/presentacion/explotacion_poblaciones.html) archivo html que contiene la misma información.
 
 Y para terminar, a modo de reflexión, os paso [este](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/2020-2021/biblio/estupidez_colectiva.pdf) artículo periodístico en el que el autor habla de nuestra dificultad para hacer las cosas bien. Él habla de la "estupidez colectiva" en general, pero es algo fácilmente aplicable a la forma en la que nos relacionamos con el resto de la vida de este planeta...
 
