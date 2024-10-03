@@ -1,7 +1,7 @@
 # Guión de la sesión "Explotación de poblaciones"
 
 
-> + **_Versión_**: 2020-2021
+> + **_Versión_**: 2023-2024
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 2 horas.
@@ -27,7 +27,6 @@ Este acto docente consta de dos sesiones diferentes que se describen a continuac
 ## Contenido
 
 Para seguir el hilo argumental de la clase se utiliza [este](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/2020-2021/presentacion/explotacion_poblaciones.xmind) mapa mental, que se puede ver con el software [Xmind](https://www.xmind.net/). Puedes descargar el archivo anterior y verlo en tu ordenador con el software mencionado. Pero también puedes ver [este](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/2020-2021/presentacion/explotacion_poblaciones.html) archivo html que contiene la misma información.
-
 
 
 
