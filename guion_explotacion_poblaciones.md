@@ -28,7 +28,7 @@ Este acto docente consta de dos sesiones diferentes que se describen a continuac
 
 Para seguir el hilo argumental de la clase se utiliza [este](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/2023_2024/presentacion/explotacion_poblaciones.xmind) mapa mental, que se puede ver con el software [Xmind](https://www.xmind.net/). Puedes descargar el archivo anterior y verlo en tu ordenador con el software mencionado. Pero también puedes ver [este](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/2023_2024/presentacion/explotacion_poblaciones.html) archivo html que contiene la misma información.
 
-Además, como apoyo extra, se incluye esta presentación que describe las distintas técnicas que usamos para cuantificar la extracción de biomasa de un sistema ecológico. Se muestran con detalle las estrategias de "cuota fija" y "esfuerzo fijo" con la perspectiva del máximo rendimiento sostenible.
+Además, como apoyo extra, se incluye [esta](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/2023_2024/refs/heads/main/presentacion/graficas_explotacion.pptx) presentación que describe las distintas técnicas que usamos para cuantificar la extracción de biomasa de un sistema ecológico. Se muestran con detalle las estrategias de "cuota fija" y "esfuerzo fijo" con la perspectiva del máximo rendimiento sostenible.
 
 
 
