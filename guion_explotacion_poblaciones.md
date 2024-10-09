@@ -1,7 +1,6 @@
-# Explotación de poblaciones
+# Guión sobre "Explotación de poblaciones"
 
 
-> + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span> <span style="display: inline-block; font-size: 12px; color: white; background-color: #E68532; border-radius: 5px; padding: 5px; font-weight: bold;"> Aplicación</span>
 > + **_Versión_**: 2023-2024
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
@@ -27,9 +26,9 @@ Este acto docente consta de dos sesiones diferentes que se describen a continuac
 
 ## Contenido
 
-Para seguir el hilo argumental de la clase se utiliza [este](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/2020-2021/presentacion/explotacion_poblaciones.xmind) mapa mental, que se puede ver con el software [Xmind](https://www.xmind.net/). Puedes descargar el archivo anterior y verlo en tu ordenador con el software mencionado. Pero también puedes ver [este](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/2020-2021/presentacion/explotacion_poblaciones.html) archivo html que contiene la misma información.
+Para seguir el hilo argumental de la clase se utiliza [este](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/2023_2024/presentacion/explotacion_poblaciones.xmind) mapa mental, que se puede ver con el software [Xmind](https://www.xmind.net/). Puedes descargar el archivo anterior y verlo en tu ordenador con el software mencionado. Pero también puedes ver [este](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/2023_2024/presentacion/explotacion_poblaciones.html) archivo html que contiene la misma información.
 
-
+Además, como apoyo extra, se incluye esta presentación que describe las distintas técnicas que usamos para cuantificar la extracción de biomasa de un sistema ecológico. Se muestran con detalle las estrategias de "cuota fija" y "esfuerzo fijo" con la perspectiva del máximo rendimiento sostenible.
 
 
 
