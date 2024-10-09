@@ -38,12 +38,17 @@ Además, los contenidos descritos a continuación se inician con una pregunta "[
 La pregunta se planteó a los estudiantes el día de antes a impartir esta sesión. La idea era que reflexionaran sobre ella y plantearan algunas respuestas, aunque fuera parciales. Aunque nadie reflexionó con antelación, hubo una serie de respuestas más intuitivas (no pudieron explicar realmente por qué pensaban lo que pensaban) que sustentadas con evidencias:
 + Tiene más sentido extraer individuos en la parte central de la gráfica logística.
 
-Después de debatir un poco sobre esto, procedimos a mantener una conversación con Perplexity. Dicha charla se puede ver en [este](https://www.perplexity.ai/search/partiendo-de-la-grafica-que-de-vjHVTcIjSSuMhwNZy.tYCA) enlace. Después de hacer la primera pregunta a la IA, procedimos a interpretar la respuesta, poniendo el foco en los aspectos que nos resultaron más interesantes. En paralelo, el profesor fue dibujando en la pizarra una serie de gráficas con objeto de describir numéricamente las distintas estrategias de explotación de poblaciones. En esta presentación se pueden observar dichas gráficas. Y a continuación se muestran las dos más relevantes: explotación por cuota fija y explotación por esfuerzo fijo.
+Después de debatir un poco sobre esto, procedimos a mantener una conversación con Perplexity. Dicha charla se puede ver en [este](https://www.perplexity.ai/search/partiendo-de-la-grafica-que-de-vjHVTcIjSSuMhwNZy.tYCA) enlace. Después de hacer la primera pregunta a la IA, procedimos a interpretar la respuesta, poniendo el foco en los aspectos que nos resultaron más interesantes. En paralelo, el profesor fue dibujando en la pizarra una serie de gráficas con objeto de describir numéricamente las distintas estrategias de explotación de poblaciones. En [esta](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/refs/heads/main/presentacion/graficas_explotacion.pptx) presentación se pueden observar dichas gráficas. Y a continuación se muestran las dos más relevantes: explotación por cuota fija y explotación por esfuerzo fijo.
 
-![cuota_fija](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/refs/heads/main/imagenes/cuota_fija.jpeg)
+![cuota_fija](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/refs/heads/main/imagenes/cuota_fija.png)
 
 *Explotación por cuota fija*
-* 
+
+![cuota_fija](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/refs/heads/main/imagenes/esfuerzo_fijo.png)
+
+*Explotación por esfuerzo fijo*
+
+
 
 
 
