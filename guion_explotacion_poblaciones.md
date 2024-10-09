@@ -40,7 +40,10 @@ La pregunta se planteó a los estudiantes el día de antes a impartir esta sesi�
 
 Después de debatir un poco sobre esto, procedimos a mantener una conversación con Perplexity. Dicha charla se puede ver en [este](https://www.perplexity.ai/search/partiendo-de-la-grafica-que-de-vjHVTcIjSSuMhwNZy.tYCA) enlace. Después de hacer la primera pregunta a la IA, procedimos a interpretar la respuesta, poniendo el foco en los aspectos que nos resultaron más interesantes. En paralelo, el profesor fue dibujando en la pizarra una serie de gráficas con objeto de describir numéricamente las distintas estrategias de explotación de poblaciones. En esta presentación se pueden observar dichas gráficas. Y a continuación se muestran las dos más relevantes: explotación por cuota fija y explotación por esfuerzo fijo.
 
+![cuota_fija](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/refs/heads/main/imagenes/cuota_fija.jpeg)
 
+*Explotación por cuota fija*
+* 
 
 
 
