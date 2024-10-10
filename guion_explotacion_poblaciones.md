@@ -38,36 +38,38 @@ Además, los contenidos descritos a continuación se inician con una pregunta "[
 La pregunta se planteó a los estudiantes el día de antes a impartir esta sesión. La idea era que reflexionaran sobre ella y plantearan algunas respuestas, aunque fuera parciales. Aunque nadie reflexionó con antelación, hubo una serie de respuestas más intuitivas (no pudieron explicar realmente por qué pensaban lo que pensaban) que sustentadas con evidencias:
 + Tiene más sentido extraer individuos en la parte central de la gráfica logística.
 
-Después de debatir un poco sobre esto, procedimos a mantener una conversación con Perplexity. Dicha charla se puede ver en [este](https://www.perplexity.ai/search/partiendo-de-la-grafica-que-de-vjHVTcIjSSuMhwNZy.tYCA) enlace. Después de hacer la primera pregunta a la IA, procedimos a interpretar la respuesta, poniendo el foco en los aspectos que nos resultaron más interesantes. En paralelo, el profesor fue dibujando en la pizarra una serie de gráficas con objeto de describir numéricamente las distintas estrategias de explotación de poblaciones. En [esta](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/refs/heads/main/presentacion/graficas_explotacion.pptx) presentación se pueden observar dichas gráficas. Y a continuación se muestran las dos más relevantes: explotación por cuota fija y explotación por esfuerzo fijo.
+Después de debatir un poco sobre esto, procedimos a mantener una conversación con Perplexity. Dicha charla se puede ver en [este](https://www.perplexity.ai/search/partiendo-de-la-grafica-que-de-vjHVTcIjSSuMhwNZy.tYCA) enlace. Después de hacer la primera pregunta a la IA, procedimos a interpretar la respuesta, poniendo el foco en los aspectos que nos resultaron más interesantes. En paralelo, el profesor fue dibujando en la pizarra una serie de gráficas con objeto de describir numéricamente las distintas estrategias de explotación de poblaciones. En [esta](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/2024_2025/presentacion/graficas_explotacion.pptx) presentación se pueden observar dichas gráficas. Y a continuación se muestran las dos más relevantes: explotación por cuota fija y explotación por esfuerzo fijo.
 
-![cuota_fija](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/refs/heads/main/imagenes/cuota_fija.png)
+![cuota_fija](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/refs/heads/2024_2025/imagenes/cuota_fija.png)
 
 *Explotación por cuota fija*
 
-![cuota_fija](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/refs/heads/main/imagenes/esfuerzo_fijo.png)
+![cuota_fija](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/refs/heads/2024_2025/imagenes/esfuerzo_fijo.png)
 
 *Explotación por esfuerzo fijo*
 
 
 
+Tras esta explicación discutimos brevemente sobre cómo las teorías (como la que nos ocupa hoy) son instrumentos muy útiles pero poco ajustados a la realidad. Son modelos, simplificaciones de la realidad que nos ayudan a comprenderla mejor. En este caso hay muchas fuentes de complejidad que no son tenidas en cuenta por esta teoría:
+
++ La capacidad de carga del medio no es constante para cada especie. Cambia en función del clima y de otros factores abióticos.
++ Las poblaciones naturales están sometidas al efecto de multitud de relaciones con otras especies. Todavía no las hemos estudiado, pero son muy importantes. Los peces de nuestro ejemplo son consumidos por depredadores y eso no se ha tenido en cuenta en nuestra explicación.
+
+Todo lo anterior hace que la incertidumbre de la decisión "capturar X Kg de peces" sea muy alta y además pueda cambiar con el tiempo. Para tratar de reducir esos problemas, se trabaja en la construcción de modelos más complejos que tienen en cuenta otros factores. La siguiente imagen muestra alguna idea de estos modelos.
+
+![cuota_fija](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/refs/heads/2024_2025/imagenes/modelos.png)
+
+*Begon. Ecología*
 
 
 
+Por último, para terminar este acto docente, dedicamos unos minutos a describir el caso de la pesquería de la anchoa peruana. No le dedicamos mucho tiempo porque volveremos a hablar de este asunto con detalle en la asignatura de *Gestión de ecosistemas*, el próximo cuatrimestre. La siguiente figura muestra la evolución temporal de las capturas de anchoa desde que se tiene registros.
 
 
 
+![cuota_fija](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/refs/heads/2024_2025/imagenes/anchoa_peruana.png)
 
 
-
-
-
-
-
-## Contenido
-
-Para seguir el hilo argumental de la clase se utiliza [este](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/2023_2024/presentacion/explotacion_poblaciones.xmind) mapa mental, que se puede ver con el software [Xmind](https://www.xmind.net/). Puedes descargar el archivo anterior y verlo en tu ordenador con el software mencionado. Pero también puedes ver [este](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/2023_2024/presentacion/explotacion_poblaciones.html) archivo html que contiene la misma información.
-
-Además, como apoyo extra, se incluye [esta](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/2023_2024/refs/heads/main/presentacion/graficas_explotacion.pptx) presentación que describe las distintas técnicas que usamos para cuantificar la extracción de biomasa de un sistema ecológico. Se muestran con detalle las estrategias de "cuota fija" y "esfuerzo fijo" con la perspectiva del máximo rendimiento sostenible.
 
 
 
@@ -78,11 +80,11 @@ Además, como apoyo extra, se incluye [esta](https://github.com/aprendiendo-cosa
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/P_plan_practicas_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 
-Haz click [aquí](https://github.com/aprendiendo-cosas/Te_intro_asignatura_ecologia_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
+Haz click [aquí](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
 
 ****
 
