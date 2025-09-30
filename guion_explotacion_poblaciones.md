@@ -31,53 +31,41 @@ Los contenidos descritos a continuación se inician con una pregunta "[bisagra](
 
 
 
-La pregunta se planteó a los estudiantes el día de antes a impartir esta sesión. La idea era que reflexionaran sobre ella y plantearan algunas respuestas, aunque fuera parciales. Aunque nadie reflexionó con antelación, hubo una serie de respuestas más intuitivas (no pudieron explicar realmente por qué pensaban lo que pensaban) que sustentadas con evidencias:
+La pregunta se plantea a los estudiantes el día de esta sesión. Hubo una serie de respuestas más intuitivas (no pudieron explicar realmente por qué pensaban lo que pensaban) que sustentadas con evidencias:
 
 + Tiene más sentido extraer individuos en la parte central de la gráfica logística.
 
-Después de debatir un poco sobre esto, procedimos a mantener una conversación con Perplexity. Dicha charla se puede ver en [este](https://www.perplexity.ai/search/partiendo-de-la-grafica-que-de-vjHVTcIjSSuMhwNZy.tYCA) enlace. Después de hacer la primera pregunta a la IA, procedimos a interpretar la respuesta, poniendo el foco en los aspectos que nos resultaron más interesantes. En paralelo, el profesor fue dibujando en la pizarra una serie de gráficas con objeto de describir numéricamente las distintas estrategias de explotación de poblaciones. En [esta](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/2024-2025/presentacion/graficas_explotacion.pptx) presentación se pueden observar dichas gráficas. Y a continuación se muestran las dos más relevantes: explotación por cuota fija y explotación por esfuerzo fijo.
+Después de debatir un poco sobre esto, procedimos a explicar lo que ocurre en realidad:
 
-![cuota_fija](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/blob/2024-2025/imagenes/cuota_fija.png?raw=true)
++ Tiene más sentido extraer biomasa de la parte alta de la curva. En esa zona hay más individuos adultos en la población. Empiezan a verse los efectos negativos de la competencia intraespecífica. Retirar individuos da más recursos a los que quedan para reproducirse. Esto hace que la población pueda recuperarse con más facilidad.
++ Si extraemos la misma cantidad de individuos de la parte "baja" de la curva, estaremos extrayendo individuos jóvenes que aún no han alcanzado la madurez reproductora. Esto reduce la probabilidad de que la población se recupere. O no lo hace o lo hace más lentamente.
 
-*Explotación por cuota fija*
+A partir de este razonamiento estudiamos dos técnicas que hay para extraer biomasa de las poblaciones:
 
-![cuota_fija](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/blob/2024-2025/imagenes/esfuerzo_fijo.png?raw=true)
-
-*Explotación por esfuerzo fijo*
-
-
++ Extracción por cuota fija. Consiste en eliminar siempre la misma cantidad de individuos.
++ Extracción por esfuerzo fijo. En este caso se mantienen fijos los esfuerzos de extracción.
 
 Tras esta explicación discutimos brevemente sobre cómo las teorías (como la que nos ocupa hoy) son instrumentos muy útiles pero poco ajustados a la realidad. Son modelos, simplificaciones de la realidad que nos ayudan a comprenderla mejor. En este caso hay muchas fuentes de complejidad que no son tenidas en cuenta por esta teoría:
 
 + La capacidad de carga del medio no es constante para cada especie. Cambia en función del clima y de otros factores abióticos.
 + Las poblaciones naturales están sometidas al efecto de multitud de relaciones con otras especies. Todavía no las hemos estudiado, pero son muy importantes. Los peces de nuestro ejemplo son consumidos por depredadores y eso no se ha tenido en cuenta en nuestra explicación.
 
-Todo lo anterior hace que la incertidumbre de la decisión "capturar X Kg de peces" sea muy alta y además pueda cambiar con el tiempo. Para tratar de reducir esos problemas, se trabaja en la construcción de modelos más complejos que tienen en cuenta otros factores. La siguiente imagen muestra alguna idea de estos modelos.
+Todo lo anterior hace que la incertidumbre de la decisión "capturar X Kg de peces" sea muy alta y además pueda cambiar con el tiempo. Para tratar de reducir esos problemas, se trabaja en la construcción de modelos más complejos que tienen en cuenta otros factores. La siguiente imagen muestra alguna idea de estos modelos. Estos modelos constituyen una tercera técnica para estimar la forma de explotar recursos en una población.
 
-![cuota_fija](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/blob/2024-2025/imagenes/modelos.png?raw=true)
-
-*Begon. Ecología*
+En [esta](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/main/presentacion/graficas_explotacion.pptx) presentación se muestra el hilo argumental seguido en el razonamiento anterior. 
 
 
+En la segunda parte de este acto docente analizamos con detalle algunos ejemplos reales de explotación de poblaciones animales y vegetales. El contenido de esta parte se puede ver en [este](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/main/presentacion/explotacion_poblaciones.xmind) mapa mental. Dicho mapa se puede ver de forma dinámica a continuación:
 
-Por último, para terminar este acto docente, dedicamos unos minutos a describir el caso de la pesquería de la anchoa peruana. No le dedicamos mucho tiempo porque volveremos a hablar de este asunto con detalle en la asignatura de *Gestión de ecosistemas*, el próximo cuatrimestre. La siguiente figura muestra la evolución temporal de las capturas de anchoa desde que se tiene registros.
-
-
-
-![cuota_fija](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/blob/2024-2025/imagenes/anchoa_peruana.png?raw=true)
-
-
-
-
-
-
-
-
+<iframe
+  src="https://raw.githack.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/main/presentacion/explotacion_poblaciones.html"
+  style="width:100%; height:450px;"
+></iframe>
 
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/archive/refs/tags/2024-2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 
