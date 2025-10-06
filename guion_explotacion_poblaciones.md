@@ -23,7 +23,7 @@ El tema de la explotación de poblaciones es muy importante en ecología y quiz�
 ## Hilo argumental 
 Los contenidos descritos a continuación se inician con una pregunta "[bisagra](https://investigaciondocente.com/2019/08/10/rtcomo-podemos-monitorizar-el-pensamiento-de-nuestros-estudiantes/)" propuesta en la sesión anterior (en la que estudiamos la competencia intraespecífica). A continuación se vuelve a mostrar dicha pregunta:
 
-![grafica_logistica](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/refs/tags/2024-2025/imagenes/Logisticpopulationgrowth2.jpg)
+![grafica_logistica](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/refs/tags/2025-2026/imagenes/Logisticpopulationgrowth2.jpg)
 
 *Fuente: Wikimedia*
 
@@ -33,7 +33,8 @@ Los contenidos descritos a continuación se inician con una pregunta "[bisagra](
 
 La pregunta se plantea a los estudiantes el día de esta sesión. Hubo una serie de respuestas más intuitivas (no pudieron explicar realmente por qué pensaban lo que pensaban) que sustentadas con evidencias:
 
-+ Tiene más sentido extraer individuos en la parte central de la gráfica logística.
++ La primera respuesta intuitiva es que tiene más sentido extraer individuos de la parte alta de la gráfica, cuando la población ha alcanzado la capacidad de carga. La idea subyacente a esta propuesta es que tendemos a creer que cuantos más individuos haya, más probable es que su extracción tenga poco impactxo en la población.
++ Sin embargo, después de pensar un poco más, alguien insinua que sería mejor extraer individuos en la parte central de la gráfica. No sabemos explicarlo bien, pero la intuición nos hace pensar que en esa parte de la gráfica la población está creciendo más intensamente. Eso haría que retirar individuos en esa fase tuviera menos impacto en la población, ya que pueden recuperarse con más facilidad. 
 
 Después de debatir un poco sobre esto, procedimos a explicar lo que ocurre en realidad:
 
