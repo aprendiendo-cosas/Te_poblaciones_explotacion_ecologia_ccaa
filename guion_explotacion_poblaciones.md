@@ -8,7 +8,7 @@
 
 
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/refs/tags/2025-2026/imagenes/Logisticpopulationgrowth2.jpg)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/main/imagenes/portada.jpg)
 
 
 
