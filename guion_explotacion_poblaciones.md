@@ -8,6 +8,12 @@
 
 
 
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/refs/tags/2025-2026/imagenes/Logisticpopulationgrowth2.jpg)
+
+
+
+
+
 ## Objetivos 
 
 En esta guía se describen dos sesiones de una hora cada una. Tiene los siguientes objetivos. 
