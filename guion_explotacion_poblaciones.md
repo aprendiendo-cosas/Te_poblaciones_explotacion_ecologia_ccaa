@@ -29,7 +29,7 @@ El tema de la explotación de poblaciones es muy importante en ecología y quiz�
 ## Hilo argumental 
 Los contenidos descritos a continuación se inician con una pregunta "[bisagra](https://investigaciondocente.com/2019/08/10/rtcomo-podemos-monitorizar-el-pensamiento-de-nuestros-estudiantes/)" propuesta en la sesión anterior (en la que estudiamos la competencia intraespecífica). A continuación se vuelve a mostrar dicha pregunta:
 
-![grafica_logistica](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/refs/tags/2025-2026/imagenes/Logisticpopulationgrowth2.jpg)
+![grafica_logistica](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/refs/tags/main/imagenes/Logisticpopulationgrowth2.jpg)
 
 *Fuente: Wikimedia*
 
