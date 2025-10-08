@@ -8,9 +8,7 @@
 
 
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/main/imagenes/portada.jpg)
-
-
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/2025_2026/imagenes/portada.jpg)
 
 
 
@@ -26,10 +24,14 @@ Este acto docente consta de dos sesiones diferentes que se describen a continuac
 
 El tema de la explotación de poblaciones es muy importante en ecología y quizás más para los estudiantes de ciencias ambientales. Los fundamentos teóricos que describimos en esta sesión son necesarios para entender el nacimiento de técnicas tan importantes como la selvicultura, la gestión cinegética o la gestión de recursos piscícolas. 
 
+
+
 ## Hilo argumental 
+
 Los contenidos descritos a continuación se inician con una pregunta "[bisagra](https://investigaciondocente.com/2019/08/10/rtcomo-podemos-monitorizar-el-pensamiento-de-nuestros-estudiantes/)" propuesta en la sesión anterior (en la que estudiamos la competencia intraespecífica). A continuación se vuelve a mostrar dicha pregunta:
 
-![grafica_logistica](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/refs/tags/main/imagenes/Logisticpopulationgrowth2.jpg)
+![grafica_logistica](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/2025_2026/imagenes/Logisticpopulationgrowth2.jpg)
+
 
 *Fuente: Wikimedia*
 
@@ -59,13 +61,13 @@ Tras esta explicación discutimos brevemente sobre cómo las teorías (como la q
 
 Todo lo anterior hace que la incertidumbre de la decisión "capturar X Kg de peces" sea muy alta y además pueda cambiar con el tiempo. Para tratar de reducir esos problemas, se trabaja en la construcción de modelos más complejos que tienen en cuenta otros factores. La siguiente imagen muestra alguna idea de estos modelos. Estos modelos constituyen una tercera técnica para estimar la forma de explotar recursos en una población.
 
-En [esta](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/main/presentacion/graficas_explotacion.pptx) presentación se muestra el hilo argumental seguido en el razonamiento anterior. 
+En [esta](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/2025_2026/presentacion/graficas_explotacion.pptx) presentación se muestra el hilo argumental seguido en el razonamiento anterior. 
 
 
-En la segunda parte de este acto docente analizamos con detalle algunos ejemplos reales de explotación de poblaciones animales y vegetales. El contenido de esta parte se puede ver en [este](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/main/presentacion/explotacion_poblaciones.xmind) mapa mental. Dicho mapa se puede ver de forma dinámica a continuación:
+En la segunda parte de este acto docente analizamos con detalle algunos ejemplos reales de explotación de poblaciones animales y vegetales. El contenido de esta parte se puede ver en [este](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/2025_2026/presentacion/explotacion_poblaciones.xmind) mapa mental. Dicho mapa se puede ver de forma dinámica a continuación:
 
 <iframe
-  src="https://raw.githack.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/main/presentacion/explotacion_poblaciones.html"
+  src="https://raw.githack.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/2025_2026/presentacion/explotacion_poblaciones.html"
   style="width:100%; height:450px;"
 ></iframe>
 
