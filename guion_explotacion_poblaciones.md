@@ -10,9 +10,13 @@
 
 ![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/2025_2026/imagenes/portada.jpg)
 
+[TOC]
 
 
-## Objetivos 
+
+
+
+## 1. Objetivos 
 
 En esta guía se describen dos sesiones de una hora cada una. Tiene los siguientes objetivos. 
 
@@ -26,7 +30,7 @@ El tema de la explotación de poblaciones es muy importante en ecología y quiz�
 
 
 
-## Hilo argumental 
+## 2. Pregunta inicial
 
 Los contenidos descritos a continuación se inician con una pregunta "[bisagra](https://investigaciondocente.com/2019/08/10/rtcomo-podemos-monitorizar-el-pensamiento-de-nuestros-estudiantes/)" propuesta en la sesión anterior (en la que estudiamos la competencia intraespecífica). A continuación se vuelve a mostrar dicha pregunta:
 
@@ -39,27 +43,67 @@ Los contenidos descritos a continuación se inician con una pregunta "[bisagra](
 
 
 
-La pregunta se plantea a los estudiantes el día de esta sesión. Hubo una serie de respuestas más intuitivas (no pudieron explicar realmente por qué pensaban lo que pensaban) que sustentadas con evidencias:
+La gestión de recursos biológicos renovables (como la explotación forestal, cinegética o pesquera) descansa sobre una disyuntiva operativa fundamental: **cómo maximizar la extracción continuada de biomasa sin comprometer la persistencia y viabilidad demográfica de la población explotada**. Ambos objetivos presentan una tensión inherente:
 
-+ La primera respuesta intuitiva es que tiene más sentido extraer individuos de la parte alta de la gráfica, cuando la población ha alcanzado la capacidad de carga. La idea subyacente a esta propuesta es que tendemos a creer que cuantos más individuos haya, más probable es que su extracción tenga poco impactxo en la población.
-+ Sin embargo, después de pensar un poco más, alguien insinua que sería mejor extraer individuos en la parte central de la gráfica. No sabemos explicarlo bien, pero la intuición nos hace pensar que en esa parte de la gráfica la población está creciendo más intensamente. Eso haría que retirar individuos en esa fase tuviera menos impacto en la población, ya que pueden recuperarse con más facilidad. 
+- Una extracción nula preserva de forma estricta la población, pero anula el rendimiento socioeconómico.
+- Una extracción que intente capturar la totalidad de la biomasa disponible conduce de manera directa al colapso poblacional.
 
-Después de debatir un poco sobre esto, procedimos a explicar lo que ocurre en realidad:
+Para resolver formalmente este compromiso (*trade-off*), es imprescindible analizar la dinámica poblacional subyacente y, en particular, los mecanismos de regulación dependientes de la densidad derivados de la competencia intraespecífica.
 
-+ Tiene más sentido extraer biomasa de la parte alta de la curva. En esa zona hay más individuos adultos en la población. Empiezan a verse los efectos negativos de la competencia intraespecífica. Retirar individuos da más recursos a los que quedan para reproducirse. Esto hace que la población pueda recuperarse con más facilidad.
-+ Si extraemos la misma cantidad de individuos de la parte "baja" de la curva, estaremos extrayendo individuos jóvenes que aún no han alcanzado la madurez reproductora. Esto reduce la probabilidad de que la población se recupere. O no lo hace o lo hace más lentamente.
 
-A partir de este razonamiento estudiamos dos técnicas que hay para extraer biomasa de las poblaciones:
 
-+ Extracción por cuota fija. Consiste en eliminar siempre la misma cantidad de individuos.
-+ Extracción por esfuerzo fijo. En este caso se mantienen fijos los esfuerzos de extracción.
+## 3. Primeras respuestas a la pregunta
 
-Tras esta explicación discutimos brevemente sobre cómo las teorías (como la que nos ocupa hoy) son instrumentos muy útiles pero poco ajustados a la realidad. Son modelos, simplificaciones de la realidad que nos ayudan a comprenderla mejor. En este caso hay muchas fuentes de complejidad que no son tenidas en cuenta por esta teoría:
+El dilema inicial surge al decidir en qué fase del crecimiento poblacional conviene intervenir para conseguir los dos objetivos planteados:
 
-+ La capacidad de carga del medio no es constante para cada especie. Cambia en función del clima y de otros factores abióticos.
-+ Las poblaciones naturales están sometidas al efecto de multitud de relaciones con otras especies. Todavía no las hemos estudiado, pero son muy importantes. Los peces de nuestro ejemplo son consumidos por depredadores y eso no se ha tenido en cuenta en nuestra explicación.
 
-Todo lo anterior hace que la incertidumbre de la decisión "capturar X Kg de peces" sea muy alta y además pueda cambiar con el tiempo. Para tratar de reducir esos problemas, se trabaja en la construcción de modelos más complejos que tienen en cuenta otros factores. La siguiente imagen muestra alguna idea de estos modelos. Estos modelos constituyen una tercera técnica para estimar la forma de explotar recursos en una población.
+
+### 3.1 Extracción en fases iniciales ($N < K/2$)
+
+Cuando la población se encuentra en densidades bajas respecto a la capacidad de carga: 
+
+- La estructura demográfica se compone predominantemente de cohortes juveniles que aún no han alcanzado su madurez sexual ni han contribuido plenamente a la reproducción. 
+- Extraer biomasa en este tramo sustrae capacidad reproductiva antes de que opere la autorregulación por competencia intraespecífica. Como consecuencia, la tasa de recuperación poblacional se aplana notablemente, dilatando el tiempo necesario para reponer el número de individuos inicial. 
+
+### 3.2 Extracción en fases maduras ($N > K/2$)
+
+En densidades intermedias-altas: 
+
+- La población cuenta con abundancia de individuos adultos sometidos a una intensa competencia intraespecífica. 
+- Al extraer individuos en este sector, se alivia deliberadamente la presión competitiva. Al suprimirse temporalmente ese freno, la tasa neta de crecimiento de los individuos remanentes se incrementa, acelerando la recuperación de la biomasa hacia el equilibrio. 
+
+Existen dos estrategias básicas para articular la explotación:
+
+1. **Regulación por esfuerzo fijo** (mantenimiento constante de los medios de captura, permitiendo que la cosecha varíe en función de la abundancia).
+2. **Regulación por cuota fija** (establecimiento de una extracción cuantitativa constante de biomasa por unidad de tiempo: $H = \text{constante}$).
+
+## 4. Modelización de la explotación bajo Cuota Fija ($H$)
+
+Bajo el régimen de cuota fija, la ecuación diferencial de la población pasa a ser:
+
+$$\frac{dN}{dt} = r \cdot N \left( \frac{K - N}{K} \right) - H$$
+
+Gráficamente, la cuota $H$ se proyecta como una recta horizontal sobre la curva de reclutamiento:
+
+
+
+### Tipología de equilibrios bajo cuota fija:
+
+1. **Cuota excesiva ($H_0 > H_{\text{máx}}$)**:
+
+   La tasa de extracción supera en todo momento la capacidad máxima intrínseca de renovación de la población. Dado que $\frac{dN}{dt} < 0$ para cualquier densidad, la extinción es el resultado determinista inevitable.
+
+2. **Cuota subcrítica ($H_1 < H_{\text{máx}}$)**:
+
+   La recta de cosecha interseca la curva de reclutamiento en dos puntos de equilibrio donde $\frac{dN}{dt} = 0$:
+
+   - **Punto A ($N_A < K/2$, equilibrio inestable)**: Si la población experimenta una perturbación negativa o una sobreextracción puntual que sitúe a $N$ por debajo de $N_A$, la tasa de extracción superará al reclutamiento ($H > dN/dt$), conduciendo a la población a una espiral de declive irreversible hacia la extinción.
+   - **Punto B ($N_B > K/2$, equilibrio dinámicamente estable)**: Si la biomasa disminuye ligeramente, la población entra en una zona donde el reclutamiento supera la cuota extraída ($dN/dt > H$), lo que permite su recuperación espontánea hacia $N_B$. Asimismo, este punto opera retirando individuos en un entorno donde se relaja la competencia intraespecífica, asegurando la sostenibilidad a largo plazo.
+
+3. **Cuota tangencial o Máximo Rendimiento Sostenible ($H_2 = H_{\text{MSY}}$)**:
+
+   La extracción coincide con la cima parabólica del reclutamiento ($N = K/2$). En términos teóricos, maximiza el rendimiento económico sostenido. No obstante, **constituye un equilibrio frágil y metaestable**: cualquier fluctuación ambiental adversa desplaza el sistema hacia la izquierda del punto crítico, situándolo en la zona de extinción estocástica sin capacidad intrínseca de retorno.
+
 
 En [esta](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/2025_2026/presentacion/graficas_explotacion.pptx) presentación se muestra el hilo argumental seguido en el razonamiento anterior. 
 
