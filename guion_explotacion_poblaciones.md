@@ -77,6 +77,8 @@ Existen dos estrategias básicas para articular la explotación:
 1. **Regulación por esfuerzo fijo** (mantenimiento constante de los medios de captura, permitiendo que la cosecha varíe en función de la abundancia).
 2. **Regulación por cuota fija** (establecimiento de una extracción cuantitativa constante de biomasa por unidad de tiempo: $H = \text{constante}$).
 
+
+
 ## 4. Modelización de la explotación bajo Cuota Fija ($H$)
 
 Bajo el régimen de cuota fija, la ecuación diferencial de la población pasa a ser:
@@ -85,9 +87,11 @@ $$\frac{dN}{dt} = r \cdot N \left( \frac{K - N}{K} \right) - H$$
 
 Gráficamente, la cuota $H$ se proyecta como una recta horizontal sobre la curva de reclutamiento:
 
+![cuota_fija](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/refs/heads/main/imagenes/cuota_fija.png)
 
 
-### Tipología de equilibrios bajo cuota fija:
+
+### 4.1 Tipología de equilibrios bajo cuota fija:
 
 1. **Cuota excesiva ($H_0 > H_{\text{máx}}$)**:
 
@@ -105,15 +109,45 @@ Gráficamente, la cuota $H$ se proyecta como una recta horizontal sobre la curva
    La extracción coincide con la cima parabólica del reclutamiento ($N = K/2$). En términos teóricos, maximiza el rendimiento económico sostenido. No obstante, **constituye un equilibrio frágil y metaestable**: cualquier fluctuación ambiental adversa desplaza el sistema hacia la izquierda del punto crítico, situándolo en la zona de extinción estocástica sin capacidad intrínseca de retorno.
 
 
-En [esta](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/2025_2026/presentacion/graficas_explotacion.pptx) presentación se muestra el hilo argumental seguido en el razonamiento anterior. 
+
+### 4.2 Discusión de dudas  planteadas por el alumnado
+
+#### 4.2.1 Duda 1: ¿Por qué no dejar crecer la población hasta la saturación ($K$) y luego extraer de golpe la mitad (K/2)?
+
+*Análisis demográfico y de gestión:*
+
+Aunque intuitiva, esta alternativa presenta severos inconvenientes:  
+
+- **Coste de oportunidad temporal**: Obliga a periodos de espera improductivos prolongados mientras la biomasa se aproxima asintóticamente a $K$, durante los cuales el rendimiento neto es nulo.   
+- **Inestabilidad por desfases temporales (oscilaciones)**: En poblaciones naturales (especialmente aquellas con retrasos temporales intrínsecos o estrategias de la $r$), el acercamiento a $K$ suele generar oscilaciones amortiguadas o ciclos límite. El gestor no puede determinar con certeza si la población se encuentra en la fase de cresta o en la de declive post-saturación.   
+- **Riesgos sanitarios dependientes de la densidad**: En condiciones de confinamiento o máxima densidad poblacional, proliferan patógenos, estrés metabólico y competencia interferente severa, incrementando la vulnerabilidad del stock.   
 
 
-En la segunda parte de este acto docente analizamos con detalle algunos ejemplos reales de explotación de poblaciones animales y vegetales. El contenido de esta parte se puede ver en [este](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/2025_2026/presentacion/explotacion_poblaciones.xmind) mapa mental. Dicho mapa se puede ver de forma dinámica a continuación:
+#### 4.2.2 Duda 2: Interacción entre cuotas fijas, periodos de veda y fenología
 
-<iframe
-  src="https://raw.githack.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/2025_2026/presentacion/explotacion_poblaciones.html"
-  style="width:100%; height:450px;"
-></iframe>
+*Planteamiento:*
+Si se establecen vedas temporales que respeten la época de reproducción, ¿garantiza esto la sostenibilidad de una cuota fija con independencia del tamaño del stock? 
+
+*Análisis demográfico:*
+Es crítico distinguir entre dos dimensiones biológicas independientes: 
+
+1. **La fenología reproductiva**: Determina *cuándo* tiene lugar el proceso biológico de reproducción dentro del ciclo estacional. La instauración de vedas y la selectividad de artes (mallas de red de luz adecuada) aseguran que los individuos juveniles alcancen la madurez y que los adultos puedan realizar las puestas o partos. 
+
+2. **El balance numérico del stock**: Determina *cuántos* individuos pueden retirarse de forma sostenible una vez concluido el periodo reproductor. 
+
+   Aunque una veda proteja con éxito la fase de reproducción, si el tamaño poblacional global se encuentra en el dominio de inestabilidad ($N < K/2$), la extracción de una cuota fija que exceda la tasa de adición neta del año provocará el colapso demográfico. La protección temporal es una condición necesaria pero no suficiente si el volumen absoluto extraído desborda el reclutamiento neto. 
+
+#### 4.2.3. Duda 3: La incertidumbre empírica sobre $K$ y el forzamiento ambiental
+
+En sistemas abiertos (como las pesquerías de peces pelágicos en mar abierto): 
+
+- Es inviable censar la totalidad de individuos o determinar con precisión matemática la capacidad de carga K y su punto medio $K/2$. 
+- Factores oceanográficos y meteorológicos de gran escala (como los episodios de El Niño-Oscilación del Sur) reconfiguran drásticamente los parámetros de productividad primaria, provocando que $K$ oscile de un año a otro. 
+- Los gestores se ven forzados a deducir el estado de la población de manera indirecta a partir del rendimiento por unidad de esfuerzo  o desembarcos comerciales. Por tanto, operar bajo una cuota rígida en las proximidades del Máximo Rendimiento Sostenible (K/2) resulta temerario; la prudencia biológica aconseja fijar cuotas conservadoras situadas claramente en la rama derecha y estable de la curva ($N > K/2$). 
+
+## 5. Modelización de la explotación bajo Esfuerzo fijo ($E$)
+
+
 
 
 ****
@@ -123,6 +157,11 @@ En la segunda parte de este acto docente analizamos con detalle algunos ejemplos
 ****
 
 Haz click [aquí](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
+
+****
+
+[Aquí](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/blob/2026_2027/notas_imparticion_Te_poblaciones_explotacion_ecologia_ccaa.md) puedes ver las notas que tomó el profesor una vez que se impartió la clase.
+
 
 ****
 
