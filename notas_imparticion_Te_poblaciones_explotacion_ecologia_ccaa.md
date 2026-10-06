@@ -11,8 +11,14 @@
     - De nuevo, vuelve a haber bastante participación de la clase.
     - Aunque siguen sin saber de memoria la expresión del crecimiento logístico.
     - Baja asistencia. No sé qué está pasando
-    - 
-    
+  
+  - SEgunda sesión:
+  
+    - Menos asistencia que la sesión anterior. Solo 9 personas.
+    - Parecen dormidos o cansados.
+    - Muy poca participación. Cuando lo hacen parecen desganados
+    - Intento hacerles ver el concepto de complejidad con el caso de la anchoa peruana y la globalización. Creo que con poco éxito.
+  
     
   
 * **Tareas / Ideas para el siguiente curso:**
