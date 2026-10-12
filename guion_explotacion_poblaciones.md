@@ -156,6 +156,12 @@ En sistemas abiertos (como las pesquerías de peces pelágicos en mar abierto):
 
 Como alternativa más robusta frente al riesgo de colapso demográfico, se formalizó el modelo de **esfuerzo fijo** ($E = \text{constante}$). En lugar de predeterminar un volumen rígido de biomasa a retirar en cada ciclo, se limita la intensidad o los medios de captura aplicados (por ejemplo, número de embarcaciones operativas, artes de pesca desplegadas o tiempo de faena).
 
+
+
+![esfuerzo_fijo](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/refs/heads/main/imagenes/esfuerzo_fijo.png)
+
+
+
 ### 5.1. Formalización matemática y comportamiento gráfico del modelo
 
 Bajo el régimen de esfuerzo constante, la cosecha instantánea ($H$) no es un valor fijo, sino una función dependiente de la densidad del stock disponible:
@@ -274,6 +280,8 @@ En esta sesión nos hemos enfrentado por primera vez a algo que condiciona tanto
 Los dos puntos débiles anteriores se engloban en uno general. Hasta ahora nuestra mirada es reduccionista. Necesitamos una mirada sistémica para entender mejor la realidad. En los próximos capítulos aprenderemos en qué consiste esto...
 
 
+
+![conclusion](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/refs/heads/main/imagenes/conclusion.png)
 
 
 
