@@ -217,6 +217,14 @@ La interacción entre la curva parabólica de reclutamiento y la recta de esfuer
 3. **Esfuerzo óptimo de Rendimiento Máximo Sostenible ($E_{\text{MSY}}$)**:
    La pendiente de la recta se ajusta para intersecionar la curva exactamente en su cúspide ($N = K/2$). Aunque maximiza el rendimiento biológico medio, presenta vulnerabilidad ante perturbaciones estocásticas que depriman la capacidad de renovación del sistema.
 
+---
+
+En [este](github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/refs/tags/2026_2027/presentacion/graficas_explotacion.pptx) enlace puedes descargar la presentación que se usó en clase para explicar lo anterior
+
+---
+
+
+
 
 
 ## 6 Estudio de caso: La pesquería de la anchoveta peruana (*Engraulis ringens*)
@@ -234,7 +242,6 @@ Este fenómeno arrastra aguas profundas ricas en nutrientes hacia la zona fótic
 La dinámica de la pesquería ha estado marcada por perturbaciones cíclicas de macroescala:
 
 A continuación se presenta la reescritura del fragmento en un registro científico riguroso, depurando las digresiones orales e incorporando la terminología precisa de la dinámica de poblaciones y la oceanografía pesquera:
-
 
 
 ### 6.3 Dinámica histórica y colapso de la pesquería de anchoveta peruana (*Engraulis ringens*)
@@ -259,6 +266,21 @@ Los dos puntos débiles anteriores se engloban en uno general. Hasta ahora nuest
 
 
 ![conclusion](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/refs/tags/2026_2027/imagenes/conclusion.png)
+
+
+
+
+---
+
+En [este](github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/refs/tags/2026_2027/presentacion/ejemplo_pesqueria_anchoa.pptx) enlace puedes descargar la presentación que se usó en clase para explicar lo anterior
+
+---
+
+
+
+
+
+
 
 
 
