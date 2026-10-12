@@ -8,7 +8,7 @@
 
 
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/2026_2027/imagenes/portada.jpg)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/2026-2027/imagenes/portada.jpg)
 
 [TOC]
 
@@ -34,7 +34,7 @@ El tema de la explotación de poblaciones es muy importante en ecología y quiz�
 
 Los contenidos descritos a continuación se inician con una pregunta "[bisagra](https://investigaciondocente.com/2019/08/10/rtcomo-podemos-monitorizar-el-pensamiento-de-nuestros-estudiantes/)" propuesta en la sesión anterior (en la que estudiamos la competencia intraespecífica). A continuación se vuelve a mostrar dicha pregunta:
 
-![grafica_logistica](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/2026_2027/imagenes/Logisticpopulationgrowth2.jpg)
+![grafica_logistica](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/2026-2027/imagenes/Logisticpopulationgrowth2.jpg)
 
 *Fuente: Wikimedia*
 
@@ -86,7 +86,7 @@ $$\frac{dN}{dt} = r \cdot N \left( \frac{K - N}{K} \right) - H$$
 
 Gráficamente, la cuota $H$ se proyecta como una recta horizontal sobre la curva de reclutamiento:
 
-![cuota_fija](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/refs/tags/2026_2027/imagenes/cuota_fija.png)
+![cuota_fija](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/refs/tags/2026-2027/imagenes/cuota_fija.png)
 
 
 
@@ -157,7 +157,7 @@ Como alternativa más robusta frente al riesgo de colapso demográfico, se forma
 
 
 
-![esfuerzo_fijo](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/refs/tags/2026_2027/imagenes/esfuerzo_fijo.png)
+![esfuerzo_fijo](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/refs/tags/2026-2027/imagenes/esfuerzo_fijo.png)
 
 
 
@@ -219,10 +219,9 @@ La interacción entre la curva parabólica de reclutamiento y la recta de esfuer
 
 ---
 
-En [este](github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/refs/tags/2026_2027/presentacion/graficas_explotacion.pptx) enlace puedes descargar la presentación que se usó en clase para explicar lo anterior
+En [este](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/refs/tags/2025_2026/presentacion/graficas_explotacion.pptx) enlace puedes descargar la presentación que se usó en clase para explicar lo anterior.
 
 ---
-
 
 
 
@@ -265,14 +264,15 @@ Los dos puntos débiles anteriores se engloban en uno general. Hasta ahora nuest
 
 
 
-![conclusion](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/refs/tags/2026_2027/imagenes/conclusion.png)
+![conclusion](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/refs/tags/2026-2027/imagenes/conclusion.png)
 
 
 
 
 ---
 
-En [este](github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/refs/tags/2026_2027/presentacion/ejemplo_pesqueria_anchoa.pptx) enlace puedes descargar la presentación que se usó en clase para explicar lo anterior
+
+En [este](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/refs/tags/2025_2026/presentacion/ejemplo_pesqueria_anchoa.pptx) enlace puedes descargar la presentación que se usó en clase para explicar lo anterior.
 
 ---
 
@@ -295,7 +295,7 @@ Haz click [aquí](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacio
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/blob/2026_2027/notas_imparticion_Te_poblaciones_explotacion_ecologia_ccaa.md) puedes ver las notas que tomó el profesor una vez que se impartió la clase.
+[Aquí](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/blob/2026-2027/notas_imparticion_Te_poblaciones_explotacion_ecologia_ccaa.md) puedes ver las notas que tomó el profesor una vez que se impartió la clase.
 
 
 ****
