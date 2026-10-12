@@ -22,6 +22,9 @@
     
   
 * **Tareas / Ideas para el siguiente curso:**
-  - [ ] 
+  - [ ] Explicar el coeficiente de capturabilidad en el esfuerzo fijo. Explicar el origen de la recta de esfuerzo-capturas.
+  - [ ] Mejorar la explicación del upwelling y del Niño. Explicar mejor la aceleración de Coriolis y su efecto en las corrientes y el upwelling
+  
+  
   
   
