@@ -34,8 +34,7 @@ El tema de la explotación de poblaciones es muy importante en ecología y quiz�
 
 Los contenidos descritos a continuación se inician con una pregunta "[bisagra](https://investigaciondocente.com/2019/08/10/rtcomo-podemos-monitorizar-el-pensamiento-de-nuestros-estudiantes/)" propuesta en la sesión anterior (en la que estudiamos la competencia intraespecífica). A continuación se vuelve a mostrar dicha pregunta:
 
-![grafica_logistica](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/2025_2026/imagenes/Logisticpopulationgrowth2.jpg)
-
+![grafica_logistica](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/2026_2027/imagenes/Logisticpopulationgrowth2.jpg)
 
 *Fuente: Wikimedia*
 
@@ -87,7 +86,7 @@ $$\frac{dN}{dt} = r \cdot N \left( \frac{K - N}{K} \right) - H$$
 
 Gráficamente, la cuota $H$ se proyecta como una recta horizontal sobre la curva de reclutamiento:
 
-![cuota_fija](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/refs/heads/main/imagenes/cuota_fija.png)
+![cuota_fija](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/refs/tags/2026_2027/imagenes/cuota_fija.png)
 
 
 
@@ -158,7 +157,7 @@ Como alternativa más robusta frente al riesgo de colapso demográfico, se forma
 
 
 
-![esfuerzo_fijo](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/refs/heads/main/imagenes/esfuerzo_fijo.png)
+![esfuerzo_fijo](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/refs/tags/2026_2027/imagenes/esfuerzo_fijo.png)
 
 
 
@@ -247,31 +246,9 @@ La recurrencia de un episodio extraordinario de El Niño en 1982-1983 condujo a 
 En respuesta a esta crisis sucesiva, las autoridades peruanas y organismos multilaterales establecieron a mediados de los años ochenta moratorias biológicas, vedas reproductivas y límites al esfuerzo pesquero, lo que permitió un proceso paulatino de recuperación del *stock*. A pesar de una nueva perturbación climática de gran magnitud a finales de los noventa (El Niño 1997-1998), la pesquería transitó hacia un marco de ordenación adaptativo fundamentado en el control del esfuerzo y el establecimiento de cuotas globales móviles. Si bien en el plano teórico este régimen aproxima la explotación a criterios de sostenibilidad, en la práctica el estado del recurso se mantiene sujeto a una elevada incertidumbre debido a la interacción de variables macroclimáticas no estacionarias, cambios de régimen decenales y presiones económicas globales difícilmente parametrizables en modelos uniespecíficos.
 
 
-## 7. Perspectivas evolutivas de la explotación poblacional
-Durante la sesión se suscitó el debate sobre las repercusiones a largo plazo que la explotación sostenida imprime sobre los acervos genéticos y la evolución demográfica de las poblaciones explotadas.
-
-Desde la biología evolutiva aplicada a la gestión pesquera y cinegética, someter a una población a una tasa de mortalidad por pesca sostenida durante décadas constituye una de las fuerzas de selección direccional más intensas inducidas por el ser humano, desencadenando transformaciones ecológicas y microevolutivas profundas:
-
-### 6.1. Selección fenotípica artificial y adelanto de la maduración sexual
-
-Los artes de pesca comerciales actúan de forma selectiva sobre las clases de mayor tamaño mediante la luz de malla o el comportamiento de escape. Al elevar drásticamente la mortalidad de los individuos adultos de gran talla, se genera una ventaja adaptativa para aquellos genotipos que exhiben:
-
-* Maduración gonadal a edades más tempranas.
-* Menor tamaño corporal en la primera reproducción.
-* Menor tasa intrínseca de crecimiento somático post-madurez.
-
-Este fenómeno (denominado *Fisheries-Induced Evolution*, FIE) genera un «reloj evolutivo inverso»: poblaciones históricamente caracterizadas por individuos longevos y fecundos ven reducida de forma estable su talla media y edad de madurez, lo cual deteriora su fecundidad global (relación potencial talla-número de huevos) y su capacidad de resiliencia frente a perturbaciones climáticas.
-
-### 6.2. Erosión de la variabilidad genética y deriva génica
-
-Los episodios de sobrepesca aguda o colapsos poblacionales forzados por la convergencia de eventos ambientales adversos y sobreexplotación (como los observados en las fases de caída demográfica en el Pacífico sudoriental) generan cuellos de botella demográficos periódicos. Estos colapsos conllevan:
-
-* Pérdida de alelos raros por deriva génica estocástica.
-* Reducción del tamaño efectivo de la población ($N_e$).
-* Disminución del potencial evolutivo y de la plasticidad fenotípica del stock frente al cambio climático y las enfermedades emergentes.
 
 
-## 8 Conclusión
+## 7 Conclusión
 
 En esta sesión nos hemos enfrentado por primera vez a algo que condiciona tanto la estructura como el funcionamiento de los sistemas ecológicos: la complejidad. Hemos visto como una herramienta teórica válida (técnicas de explotación de poblaciones biológicas) genera resultados dispares cuando se aplica en la vida real. Esta discrepancia entre las teorías ecológicas y la efectividad de su aplicación se debe, fundamentalmente a dos razones:
 - Los conceptos vistos hasta ahora se centran en la ecología de las poblaciones. No contemplan la interacción entre especies, ni la relación de las especies con su medio. Por eso los conceptos como la capacidad de carga no terminan de ser útiles aquí. Cambian mucho en virtud de muchas variables que no estamos considerando. Este punto débil será abordado en las sucesivas sesiones en las que trascenderemos el concepto de población.
@@ -281,7 +258,7 @@ Los dos puntos débiles anteriores se engloban en uno general. Hasta ahora nuest
 
 
 
-![conclusion](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/refs/heads/main/imagenes/conclusion.png)
+![conclusion](https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/refs/tags/2026_2027/imagenes/conclusion.png)
 
 
 
