@@ -219,7 +219,7 @@ La interacción entre la curva parabólica de reclutamiento y la recta de esfuer
 
 ---
 
-En [este](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/refs/tags/2025_2026/presentacion/graficas_explotacion.pptx) enlace puedes descargar la presentación que se usó en clase para explicar lo anterior.
+En [este](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/refs/tags/2026-2027/presentacion/graficas_explotacion.pptx) enlace puedes descargar la presentación que se usó en clase para explicar lo anterior.
 
 ---
 
@@ -272,7 +272,7 @@ Los dos puntos débiles anteriores se engloban en uno general. Hasta ahora nuest
 ---
 
 
-En [este](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/refs/tags/2025_2026/presentacion/ejemplo_pesqueria_anchoa.pptx) enlace puedes descargar la presentación que se usó en clase para explicar lo anterior.
+En [este](https://github.com/aprendiendo-cosas/Te_poblaciones_explotacion_ecologia_ccaa/raw/refs/tags/2026-2027/presentacion/ejemplo_pesqueria_anchoa.pptx) enlace puedes descargar la presentación que se usó en clase para explicar lo anterior.
 
 ---
 
